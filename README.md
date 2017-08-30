@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[md5 Hash Generate](http://www.miraclesalad.com/webtools/md5.php)
